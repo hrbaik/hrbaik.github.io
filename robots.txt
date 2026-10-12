@@ -1,0 +1,6 @@
+# Intended for the approved production release, not access control.
+# Keep previews private; robots.txt does not protect confidential content.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.hbaik.org/sitemap.xml
